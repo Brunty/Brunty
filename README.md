@@ -2,7 +2,7 @@
 
 ### Hi there I'm Brunty 👋
 
-- 🔭 I’m currently working at [@Bumble](https://bumble.com/), in the Trust and Safety team. Previously I've worked on [Ranges.io](https://www.ranges.io/) for [@SANS Institute](https://www.sans.org/uk_en/), as well as Credit Union backend systems for [@Viva IT](https://vivait.co.uk)
+- 🔭 I'm on the lookout for new roles! I've worked in #Fintech, #CyberSecurity with [@SANS Institute](https://www.sans.org/uk_en/), and most recently #TrustAndSafety and #Authenticity with [@Bumble](https://bumble.com/) at scale.
 - 🌱 I’m currently tinkering with [Home Assistant](https://www.home-assistant.io/) and IoT / home automation projects
 - 💬 Ask me about web app security, public speaking, testing or code quality
 - 📫 How to reach me: [https://brunty.me](https://brunty.me) or [@Brunty](https://brunty.social/@Brunty)
